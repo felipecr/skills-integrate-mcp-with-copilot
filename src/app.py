@@ -74,6 +74,12 @@ activities = {
         "schedule": "Sextas-feiras, 16h00 - 17h30",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "GitHub Skills": {
+        "description": "Aprenda habilidades práticas de programação, colaboração e GitHub com suporte de certificação",
+        "schedule": "Quartas-feiras, 16h00 - 17h30",
+        "max_participants": 25,
+        "participants": []
     }
 }
 
